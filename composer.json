@@ -1,0 +1,12 @@
+{
+	"name" : "jqmodules/smart_autocomplete",
+	"type" : "tag",
+	"description" : "fancy select box",
+	"keywords" : [
+		"jquery"
+	],
+	"license" : "MIT",
+	"require" : {
+		"webmodules/jquery" : ">=0.0.0"
+	}
+}
